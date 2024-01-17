@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdc1997&hide=python,prs)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=%E4%BD%A0%E6%B4%BB%E5%BE%97%E5%83%8F%E8%AF%97%EF%BC%8C%E6%B2%A1%E6%9C%89%E5%BD%92%E5%AE%BF%E5%8D%B4%E8%B6%B3%E5%A4%9F%E9%85%B7%E3%80%82;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
 
